@@ -19,5 +19,7 @@ input, header{
 }
 
 .news_item {
-  background-color: red;
+  padding: 20px;
+  box-sizing: border-box;
+  border-bottom: 1px solid gray;
 }
