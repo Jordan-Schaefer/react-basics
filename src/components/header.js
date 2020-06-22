@@ -2,7 +2,6 @@ import React from 'react';
 import '../css/styles.css';
 
 const Header = (props) => {
-
     return (
       <header>
         <div
