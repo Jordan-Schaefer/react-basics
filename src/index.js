@@ -24,7 +24,6 @@ class App extends Component {
     this.setState({
       filtered
     })
-    // console.log(filter)
   }
 
   render () {
